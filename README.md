@@ -27,7 +27,7 @@ The dataset consists of 148 diseases with their corresponding symptoms. The data
 ## Results
 
 ### Disease-Symptoms Network
-![Disease-Symptoms Network]
+<img width="724" alt="Screenshot 2024-05-13 at 10 23 40 PM" src="https://github.com/naresy/Disease_prediction/assets/45518442/41c63754-3d08-4f92-8b56-700acbd86aff">
 
 ### Decision Tree
 Model Accuracy - 90.54%

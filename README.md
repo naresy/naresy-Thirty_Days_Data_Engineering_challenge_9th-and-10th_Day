@@ -34,13 +34,13 @@ The dataset consists of 148 diseases with their corresponding symptoms. The data
 ### Decision Tree
 Model Accuracy - 90.54%
 ![Decision Tree]
-[Uploading decistion_tree.log…]()
+![decision_tree_graphivz](https://github.com/naresy/naresy-Thirty_Days_Data_Engineering_challenge_9th-and-10th_Day/assets/45518442/e1e7bba3-9206-48c0-bf69-a5a6bea83c6e)
 
 
 ## Contributing
-Any contributions you make are greatly appreciated.
+I would greatly appreciate any contributions you make.
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/amazing-feature`)
+2. Create your Feature Branch (`git checkout -b feature/amazing feature)
 3. Commit your Changes (`git commit -m 'feat: some amazing feature'`)
 4. Push to the Branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
